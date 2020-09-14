@@ -6,7 +6,7 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 - Tablet 768px
 - Mobile (> 320px)
 
-[DEMO LINK](https://ArtemiiKab.github.io/layout_miami/)
+[DEMO LINK](https://artemiikab.github.io/Kickstarter/)
 
 
 
